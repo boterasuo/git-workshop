@@ -6,5 +6,5 @@
     - 第一小點
 - 第二點
 
-[我的github]
-(https://github.com/boterasuo/git-workshop)
+[ 我的github ]
+( https://github.com/boterasuo/git-workshop )

@@ -1,7 +1,7 @@
-# 12/25 ~ 12/26 NodeJS 課堂心得   
-講師: 小賴老師
+# NodeJS 課堂心得   
+講師: 小賴老師 ｜ 授課時間: 2021/12/25 ~ 12/26
 
-## 12/25 課堂重點 #### (詳閱小賴老師共筆)
+## 12/25 課堂重點 (詳閱小賴老師共筆)
 - 終端機指令: `cd`, `pwd`, `ls`, `mkdir`, `touch`, `cat`...etc
 - Git & GitHub: `git init`, `git add [filename]`, `git commit -m "messages"`...etc
 - Git flow: 建立分支與合併 `git switch [要合併別人的branch]` --> `git merge [要被合併的branch]`
@@ -16,12 +16,13 @@ Scrum:
 (不過台商較多假scrum，大多還是硬體開發思維)
 
 瀑布式(Waterfall model):
+
 ![](https://i.imgur.com/5BlHgUT.jpg "瀑布式")
 
 瀑布式專案很容易後期都在加班QAQ
 
 
-## 12/26 課堂重點 #### (詳閱小賴老師共筆)
+## 12/26 課堂重點 (詳閱小賴老師共筆)
 - 資訊相關科系五大必修: 
     - 資料結構 (DS)
     - 演算法 (Algo)
@@ -35,20 +36,20 @@ Scrum:
 
 ---
 ## 轉職 & 面試相關
-一些後端面試必考題:
+**一些後端面試必考題:**
 - PHP & SQL 基礎 (可再複習)
 - 箭頭函式
 - this
 - reduce
 
-一些面試時可以先問公司的:
+**一些面試時可以先問公司的:**
 - Commit message style?
 - Coding-style? (不同語言style不同)
 - git-flow都怎麼跑?
 - 有沒有跑scrum?
 - code review 的規範?
 
-修行在個人的部分:
+**修行在個人的部分:**
 Keep learning! 
 現在會的東西只是起點，未來有更多東西要靠自己學
 - 想走後端的建議可學PHP的框架: Laravel
@@ -59,5 +60,4 @@ Keep learning!
 
 
 
-[我的github](https://github.com/boterasuo/git-workshop)
 

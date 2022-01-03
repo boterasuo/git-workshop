@@ -12,14 +12,14 @@
 Scrum:
 ![](https://www.visual-paradigm.com/servlet/editor-content/scrum/what-are-scrum-time-boxed-events/sites/7/2018/12/five-scrum-events.png "Scrum")
 
-通常一個sprint(衝刺)約2~4周，專案成員會事先將每個功能設定難易度點數，每個sprint設定需達成的總點數，再開始從較優先要開發的功能開始進入sprint。
-(不過台商較多假scrum，大多還是硬體開發思維)
+> 通常一個sprint(衝刺)約2~4周，專案成員會事先將每個功能設定難易度點數，每個sprint設定需達成的總點數，再開始從較優先要開發的功能開始進入sprint。
+> (不過台商較多假scrum，大多還是硬體開發思維)
 
 瀑布式(Waterfall model):
 
 ![](https://i.imgur.com/5BlHgUT.jpg "瀑布式")
 
-瀑布式專案很容易後期都在加班QAQ
+> 瀑布式專案很容易後期都在加班QAQ
 
 
 ## 12/26 課堂重點 (詳閱小賴老師共筆)
@@ -50,8 +50,8 @@ Scrum:
 - code review 的規範?
 
 **修行在個人的部分:**
-Keep learning! 
-現在會的東西只是起點，未來有更多東西要靠自己學
+> Keep learning! 
+> 現在會的東西只是起點，未來有更多東西要靠自己學
 - 想走後端的建議可學PHP的框架: Laravel
 - 可去天瓏書店挖寶，小賴老師推薦的:
     - 《重構》 by M.Fowler(1999) 主旨為程式碼開發原則

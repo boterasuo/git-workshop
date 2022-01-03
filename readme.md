@@ -76,6 +76,7 @@ const reducer = (previousValue, currentValue) => previousValue + currentValue;
 
 很認同小賴老師說的，
 > 我們都是大人了，要對自己的人生負責。
+
 雖然常會後悔當初怎麼沒選資工系、或為什麼不早點跨進來，但相信過往的人生也不是沒有成長或累積，要帶上過去的自己一起放眼未來XD
 
 給自己未來的代辦事項:

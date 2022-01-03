@@ -41,6 +41,16 @@ Scrum:
 - 箭頭函式
 - this
 - reduce
+```javascript
+const array1 = [1, 2, 3, 4];
+// 一般寫法
+const reducer = function(previousValue, currentValue){
+    previousValue + currentValue;
+}
+// 箭頭函式寫法
+const reducer = (previousValue, currentValue) => previousValue + currentValue;
+
+```
 
 **一些面試時可以先問公司的:**
 - Commit message style?
@@ -51,6 +61,7 @@ Scrum:
 
 **修行在個人的部分:**
 > Keep learning! 
+
 > 現在會的東西只是起點，未來有更多東西要靠自己學
 - 想走後端的建議可學PHP的框架: Laravel
 - 可去天瓏書店挖寶，小賴老師推薦的:

@@ -51,6 +51,9 @@ const reducer = function(previousValue, currentValue){
 const reducer = (previousValue, currentValue) => previousValue + currentValue;
 
 ```
+附上一張網路上找到感覺能更理解reduce的圖:
+![](https://i.redd.it/9dm5u0f5mrr41.jpg "map filter reduce")
+
 
 **一些面試時可以先問公司的:**
 - Commit message style?
@@ -60,15 +63,30 @@ const reducer = (previousValue, currentValue) => previousValue + currentValue;
 - code review 的規範?
 
 **修行在個人的部分:**
-> Keep learning! 
-
-> 現在會的東西只是起點，未來有更多東西要靠自己學
+> Keep learning! <br> 現在會的東西只是起點，未來有更多東西要靠自己學
 - 想走後端的建議可學PHP的框架: Laravel
 - 可去天瓏書店挖寶，小賴老師推薦的:
     - 《重構》 by M.Fowler(1999) 主旨為程式碼開發原則
     - 《JavaScript the good part》 好書，若要精進JS可看
 - 資工系五大必修，建議可找時間補足
 
+## 一點個人心得
+因為年紀比較大的關係(咳)，從決定轉職到現在，經歷了很多自我懷疑和低谷。
+不過也在過程中認知到自己是真的喜歡寫程式，從無名小站年代開始會研究一點點標籤語言、自訂喜歡的樣式，到轉職前在W3school自學HTML和JavaScript，到現在...開始可以寫出一個簡單的動態網頁，而且(意外地XD)對資料庫和後端比較有興趣、可以熬夜寫個不停...原來人真的會在學習的過程中，更認識自己。
+
+很認同小賴老師說的，
+> 我們都是大人了，要對自己的人生負責。
+雖然常會後悔當初怎麼沒選資工系、或為什麼不早點跨進來，但相信過往的人生也不是沒有成長或累積，要帶上過去的自己一起放眼未來XD
+
+給自己未來的代辦事項:
+1. GitHub 經營 & 更新 (作品集導向)
+2. 個人網頁規劃 & 建置
+3. 學習 PHP 框架 (Laravel)
+3. 資工系五大必修惡補
+    資源: [哈佛CS50](https://cs50.harvard.edu/college/2022/spring/) 
+4. 嘗試在 LeetCode 刷題
+5. 每日(盡量)一篇英文新聞
+9. 其他: 想到再更新
 
 
 

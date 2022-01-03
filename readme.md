@@ -6,6 +6,7 @@
 - Git & GitHub: `git init`, `git add [filename]`, `git commit -m "messages"`...etc
 - Git flow: 建立分支與合併 `git switch [要合併別人的branch]` --> `git merge [要被合併的branch]`
     - 通常不會在開發或正式分支上做commit或push
+    - 正式專案會常用pull request
 - markdown語法
 - 軟體開發流程: Scrum vs. 瀑布式開發(硬體開發流程):
 

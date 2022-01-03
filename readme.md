@@ -83,10 +83,11 @@ const reducer = (previousValue, currentValue) => previousValue + currentValue;
 1. GitHub 經營 & 更新 (作品集導向)
 2. 個人網頁規劃 & 建置
 3. 學習 PHP 框架 (Laravel)
-3. 資工系五大必修惡補
+4. 資工系五大必修惡補
     - 資源: [哈佛CS50](https://cs50.harvard.edu/college/2022/spring/) 
-4. 嘗試在 LeetCode 刷題
-5. 每日(盡量)一篇英文新聞
+5. 讀《重構》
+6. 嘗試在 LeetCode 刷題
+7. 每日(盡量)一篇英文新聞
 9. 其他: 想到再更新
 
 

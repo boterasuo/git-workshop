@@ -12,14 +12,14 @@
 Scrum:
 ![](https://www.visual-paradigm.com/servlet/editor-content/scrum/what-are-scrum-time-boxed-events/sites/7/2018/12/five-scrum-events.png "Scrum")
 
-> 通常一個sprint(衝刺)約2~4周，專案成員會事先將每個功能設定難易度點數，每個sprint設定需達成的總點數，再開始從較優先要開發的功能開始進入sprint。
+> 通常一個sprint(衝刺)約2~4周，專案成員會事先將每個功能設定難易度點數、每個sprint設定需達成的總點數，再開始從較優先要開發的功能進入sprint。
 > (不過台商較多假scrum，大多還是硬體開發思維)
 
 瀑布式(Waterfall model):
 
 ![](https://i.imgur.com/5BlHgUT.jpg "瀑布式")
 
-> 瀑布式專案很容易後期都在加班QAQ
+> 屬硬體開發思維，容易導致工程師專案後期都在加班QAQ
 
 
 ## 12/26 課堂重點 (詳閱小賴老師共筆)
@@ -31,8 +31,8 @@ Scrum:
     - 網路 Networking
     - 作業系統 (OS)
 - NodeJS 簡介 & 特色
-    版本: 偶數版通常是正式長期維護版(LTS)
-    ![](https://raw.githubusercontent.com/nodejs/Release/master/schedule.svg?sanitize=true "NodeJS version")
+    - 版本: 偶數版通常是正式長期維護版(LTS)
+        ![](https://raw.githubusercontent.com/nodejs/Release/master/schedule.svg?sanitize=true "NodeJS version")
 
 ---
 ## 轉職 & 面試相關
@@ -84,7 +84,7 @@ const reducer = (previousValue, currentValue) => previousValue + currentValue;
 2. 個人網頁規劃 & 建置
 3. 學習 PHP 框架 (Laravel)
 3. 資工系五大必修惡補
-    資源: [哈佛CS50](https://cs50.harvard.edu/college/2022/spring/) 
+    - 資源: [哈佛CS50](https://cs50.harvard.edu/college/2022/spring/) 
 4. 嘗試在 LeetCode 刷題
 5. 每日(盡量)一篇英文新聞
 9. 其他: 想到再更新

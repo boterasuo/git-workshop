@@ -1,4 +1,4 @@
-# NodeJS 課堂心得   
+# NodeJS 課堂筆記 & 心得   
 講師: 小賴老師 ｜ 授課時間: 2021/12/25 ~ 12/26
 
 ## 12/25 課堂重點 (詳閱小賴老師共筆)
@@ -6,7 +6,7 @@
 - Git & GitHub: `git init`, `git add [filename]`, `git commit -m "messages"`...etc
 - Git flow: 建立分支與合併 `git switch [要合併別人的branch]` --> `git merge [要被合併的branch]`
     - 通常不會在開發或正式分支上做commit或push
-    - 正式專案會常用pull request
+    - 正式專案會常用pull request (on GitHub)
 - markdown語法
 - 軟體開發流程: Scrum vs. 瀑布式開發(硬體開發流程):
 
@@ -25,12 +25,12 @@ Scrum:
 
 ## 12/26 課堂重點 (詳閱小賴老師共筆)
 - 資訊相關科系五大必修: 
-    - 資料結構 (DS)
-    - 演算法 (Algo)
-    - 資料庫 (DB): 正規化 --> 後端需要了解如何設計table schema
+    - 資料結構 (Data Structure)
+    - 演算法 (Algorithm)
+    - 資料庫 (Database): 正規化 --> 後端需要了解如何設計table schema
         但正規化不是一定要遵守的法律，有時會因為商業邏輯的特殊設定而違反
-    - 網路 Networking
-    - 作業系統 (OS)
+    - 網路 (Networking)
+    - 作業系統 (Operating System)
 - NodeJS 簡介 & 特色
     - 版本: 偶數版通常是正式長期維護版(LTS)
         ![](https://raw.githubusercontent.com/nodejs/Release/master/schedule.svg?sanitize=true "NodeJS version")
@@ -52,7 +52,7 @@ const reducer = function(previousValue, currentValue){
 const reducer = (previousValue, currentValue) => previousValue + currentValue;
 
 ```
-附上一張網路上找到感覺能更理解reduce的圖:
+圖解 map()、filter()、reduce() 參考:
 ![](https://i.redd.it/9dm5u0f5mrr41.jpg "map filter reduce")
 
 
@@ -78,7 +78,7 @@ const reducer = (previousValue, currentValue) => previousValue + currentValue;
 很認同小賴老師說的，
 > 我們都是大人了，要對自己的人生負責。
 
-雖然常會後悔當初怎麼沒選資工系、或為什麼不早點跨進來，但相信過往的人生也不是沒有成長或累積，要帶上過去的自己一起放眼未來XD
+雖然常會後悔當初怎麼沒選資工系、或為什麼不早點跨進來，但相信過往的人生也不是沒有成長或累積，要負起責任帶上過去的自己一起放眼未來XD
 
 給自己未來的代辦事項:
 1. GitHub 經營 & 更新 (作品集導向)

@@ -11,6 +11,7 @@
 - 軟體開發流程: Scrum vs. 瀑布式開發(硬體開發流程):
 
 Scrum:
+
 ![](https://www.visual-paradigm.com/servlet/editor-content/scrum/what-are-scrum-time-boxed-events/sites/7/2018/12/five-scrum-events.png "Scrum")
 
 > 通常一個sprint(衝刺)約2~4周，專案成員會事先將每個功能設定難易度點數、每個sprint設定需達成的總點數，再開始從較優先要開發的功能進入sprint。
